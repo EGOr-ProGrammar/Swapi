@@ -3,8 +3,8 @@
 Современное Android-приложение для работы с [SWAPI](https://swapi.dev/), построенное на базе Jetpack Compose и принципах чистой архитектуры.
 
 <p align="center">
-  <img src="screenshots/list.png" width="30%" alt="Screen of all characters" />
-  <img src="screenshots/details.png" width="30%" alt="Details of certain character" />
+  <img src="screenshoots/list.png" width="30%" alt="Screen of all characters" />
+  <img src="screenshoots/details.png" width="30%" alt="Details of certain character" />
 </p>
 
 ## 🛠 Стек технологий
