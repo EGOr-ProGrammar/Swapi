@@ -2,6 +2,11 @@
 
 Современное Android-приложение для работы с [SWAPI](https://swapi.dev/), построенное на базе Jetpack Compose и принципах чистой архитектуры.
 
+<p align="center">
+  <img src="screenshots/list.png" width="30%" alt="Screen of all characters" />
+  <img src="screenshots/details.png" width="30%" alt="Details of certain character" />
+</p>
+
 ## 🛠 Стек технологий
 
 * **Language:** [Kotlin](https://kotlinlang.org/) + Coroutines & Flow.
@@ -29,7 +34,7 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone [https://github.com/EGOr-ProGrammar/Swapi.git](https://github.com/EGOr-ProGrammar/Swapi.git)
+    git clone https://github.com/EGOr-ProGrammar/Swapi.git
     ```
 2.  Откройте проект в **Android Studio**.
 3.  Выполните синхронизацию Gradle и запустите приложение на устройстве.
